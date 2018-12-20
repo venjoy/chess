@@ -16,3 +16,8 @@
   npx cap open android
   npx cap copy
   ```
+* Publish App for Android
+  ```bash
+  # In android studio
+  # click build and generate signed app
+  ```

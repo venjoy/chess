@@ -1,0 +1,7 @@
+{
+  "appId": "io.github.venjoy.chess",
+  "appName": "chess",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+}
